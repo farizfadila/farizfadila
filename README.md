@@ -1,4 +1,5 @@
-Saya Fariz Fadila, seorang mahasiswa tingkat akhir di Universitas Pancasakti Tegal.
+##Tentang
+Kenalin gua Fariz Fadila, seorang fresh graduate yang kebetulan kecanduan dunia data.
 
 <!---
 farizfadila/farizfadila is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
