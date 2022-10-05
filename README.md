@@ -7,6 +7,12 @@ I'm a passionate data driven enthusiast with a mathematics background.
 - :trophy: I'm Graduated from <a href="https://drive.google.com/file/d/1UFHVi_KPCgdlbSxA269f47GSoIF36ok7/view?usp=sharing" target="_blank">Digital Talent Scholarship 2022 Program specializing in Data Science</a>.
 - :book: I'm currently learning about Data Analytics and Data Science.
 
+## ⚙ Latest Projects
+| **Project**                         | **Tools** |
+|-------------------------------------|-----------|
+| <a href="https://github.com/farizfadila/analisis_covid19" target="_blank">Analisis Data COVID 19 di Indonesia | R         |
+| <a href="https://github.com/farizfadila/DQLAB/blob/516147c2e7ec1c258a51165c059819838f3c8a1c/Project%20Data%20Analysis%20for%20Retail:%20Sales%20Performance%20Report/sales_performance_report.sql" target="_blank">Sales Performance Report</a>            | SQL       |
+
 ## 🔍 You Can Find Me at
 <p>
   <a href="https://www.linkedin.com/in/farizfadila/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
